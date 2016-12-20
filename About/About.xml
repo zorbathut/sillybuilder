@@ -4,5 +4,5 @@
   <author>ZorbaTHut</author>
   <url>https://github.com/zorbathut/sillybuilder</url>
   <description>Modifies the live mechanoid bill so that doctors will remove scyther limbs.</description>
-  <targetVersion>0.15.0</targetVersion>
+  <targetVersion>0.16.0</targetVersion>
 </ModMetaData>
